@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Br1
 =========
 
@@ -140,3 +141,7 @@ License
 -------
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+=======
+BR1
+===
+>>>>>>> 7a91ecb195144d265ab35cdbda33b16472d13cfc
